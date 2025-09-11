@@ -30,3 +30,13 @@
   "outputs": { }
 }
 ```
+
+* Steps :
+
+* azure quickstart template : https://github.com/Azure/azure-quickstart-templates/tree/master/quickstarts 
+
+#### Azure Bicep
+* it an other way to deploy azure ressource
+* Much easier and compact 
+* Bicep Workflow : the bicep file will be converted to an ARM Template and the ARM Template will communicate with ARM Api 
+![Bicep Workflow](img/image.png)
